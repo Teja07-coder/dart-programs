@@ -1,6 +1,7 @@
 # demo_app
 
 A new Flutter project.
+author - Tejas Bhale
 
 ## Getting Started
 
